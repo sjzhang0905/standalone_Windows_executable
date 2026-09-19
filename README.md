@@ -1,0 +1,16 @@
+# standalone_Windows_executable
+
+CarbonStructureBuilder
+石墨烯、碳纳米管构建工具
+
+ChemStructConverter
+各类格式转换工具
+
+HeterostructureBuilder
+异质结构建工具
+
+MetalSlabBuilder
+金属单质表面构建工具
+
+PDFMergeStudio
+各类文件合并为pdf工具
